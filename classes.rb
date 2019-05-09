@@ -15,9 +15,9 @@ bob.nom = "Lenon"
 puts bob.prenom 
 
 #on crée un utilisateur jane
-jane = Utilisateur.new
-jane.prenom = "Jane"
-jane.nom = "Lenon"
+anne = Utilisateur.new
+anne.prenom = "anne"
+anne.nom = "Lenon"
 
 #on affiche son nom complet en concaténant son prénom et nom
 puts jane.prenom + " " + jane.nom
