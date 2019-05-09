@@ -1,0 +1,1 @@
+Projet de la première activité sur le cours openclassroom "Gérez votre code avec Git et GitHub". Ce projet contient juste quelques fichiers avec des lignes de code en Ruby.
